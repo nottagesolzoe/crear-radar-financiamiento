@@ -1,0 +1,5 @@
+interface:
+  display_name: "Crear radar financiamiento"
+  short_description: "Radar de financiamiento en español o inglés"
+  default_prompt: "Usá $crear-radar-financiamiento para ayudarme a crear un radar de financiamiento y preguntarme primero qué asistente tengo."
+
