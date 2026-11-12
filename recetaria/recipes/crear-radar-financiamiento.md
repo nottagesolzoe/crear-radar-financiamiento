@@ -36,10 +36,6 @@ Una descripción, página o documentos del proyecto; acceso a un asistente; un l
 
 La [skill de soporte](../../crear-radar-financiamiento/SKILL.md) conserva los estados y reglas. Para empezar sin instalación, copiá el [prompt autocontenido](../../crear-radar-financiamiento/prompts/inicio.txt) en tu asistente.
 
-### Prompt para seguir esta receta
-
-> Usá `$crear-radar-financiamiento`. Abrí su `SKILL.md` y las referencias que indique. Con mis materiales, guiame una decisión por turno hasta construir y probar el radar. Si no podés cargar la skill, seguí el [prompt autocontenido](../../crear-radar-financiamiento/prompts/inicio.txt). Si no podés leerlo, pedime que lo pegue.
-
 ## Cómo comprobar que salió bien
 
 Elegí una ficha y comprobá en las bases su estado, fecha exacta, monto y tipo de solicitante. Revisá si el gasto propuesto está permitido y si existe una vía institucional documentada. Repetí con una ficha pendiente: tiene que indicar qué falta y cómo resolverlo. Volvé a ejecutar con el mismo historial: un registro igual no se anuncia como nuevo; un cambio de plazo debe mostrar antes, después y fuente. No tomes una salida de ejemplo como una prueba real.
@@ -71,3 +67,6 @@ Son referencias operativas, no bibliografía académica ni evidencia de eficacia
 
 ¿APROBADA / CASI / REHACER?
 
+### Prompt para seguir esta receta
+
+> Usá `$crear-radar-financiamiento`. Abrí su `SKILL.md` y las referencias que indique. Con mis materiales, guiame una decisión por turno hasta construir y probar el radar. Si no podés cargar la skill, seguí el [prompt autocontenido](../../crear-radar-financiamiento/prompts/inicio.txt). Si no podés leerlo, pedime que lo pegue.
