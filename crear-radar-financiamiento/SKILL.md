@@ -9,6 +9,8 @@ Respondé en el idioma de la persona (español o inglés). Conservá siempre la 
 
 BORRADOR. Leé la [receta](../recetaria/recipes/crear-radar-financiamiento.md) para guiar al usuario. No es una aprobación editorial ni una instalación automática.
 
+Si la persona llega desde el prompt de la receta, abrí esta skill y sus referencias y retomá en la primera decisión pendiente. Usá los ejemplos de la preparación cuando aclaren una elección. En el cierre, aplicá «Cómo comprobar que salió bien» al radar real y revisá el error de «Si querés que se te queme la torta» si corresponde.
+
 ## Contrato de interacción
 
 Primera respuesta en español: «¿Qué asistente tenés disponible? A. ChatGPT. B. Claude. C. Gemini. D. Otro o no sé». En inglés: «Which assistant do you have access to? A. ChatGPT. B. Claude. C. Gemini. D. Other or not sure». No agregues otra pregunta. Si la respuesta ya está documentada en esta misma sesión, registrala y continuá sin volver a pedirla.
