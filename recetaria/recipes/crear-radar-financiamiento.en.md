@@ -58,3 +58,6 @@ Consulted 26 October 2026. These are operational references, not academic eviden
 
 APPROVED / ALMOST / REWORK?
 
+### Prompt to follow this recipe
+
+> Use `$crear-radar-financiamiento`. Open its `SKILL.md` and the references it lists, then guide me through the next decision one question at a time until the radar is ready to test. If you cannot load the skill, follow the [standalone English prompt](../../crear-radar-financiamiento/prompts/start.en.txt). If you cannot open it, ask me to paste it.
